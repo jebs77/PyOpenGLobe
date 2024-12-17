@@ -1,0 +1,4 @@
+latitude,longitude,site,type,description
+51.9595, 3.9855,APMT-MV2,CR,EHD in test environment T1&T11
+32.8213, 35.0007,HPC,CR,Firs CR: Add Kishon lanes
+6.9404, 79.8464,SAGT,GATE,First project!!! 
